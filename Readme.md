@@ -1,5 +1,6 @@
 # Проект «Киноман» [![Build status][travis-image]][travis-url]
 
+
 * Студент: [Александр Бурыхин](https://up.htmlacademy.ru/ecmascript/13/user/1364551).
 * Наставник: [Максим Волков](https://htmlacademy.ru/profile/id1508839).
 
